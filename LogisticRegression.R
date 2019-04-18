@@ -1,10 +1,10 @@
 rm(list=ls())
 
-setwd("C:\\Users\\Asus\\Desktop\\MSc BA\\Predictive Analytics and Modelling of Data\\Term Project")
+setwd("C:\\...")
 getwd()
 
 
-data <- read.csv("Edinburgh_test.csv",  na.strings = "")
+data <- read.csv("...data.csv",  na.strings = "")
 
 #######DATA UNDERSTANDING & DATA PREPARATION ###########
 ########################################################
